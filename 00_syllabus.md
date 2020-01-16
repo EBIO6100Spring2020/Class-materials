@@ -26,12 +26,12 @@ Work as a team to produce a forecast using current best practices.
 This is a hackathon. You should bring a laptop to every class with the necessary tools. If you don't have access to a laptop please let me know as soon as possible. We can totally work something out.
 
 #### Materials not here on Github (e.g. reading)
-https://drive.google.com/drive/folders/1Todaiop6BTS8-CipZFkF9vwBUECzHxKn
+[Google Drive](https://drive.google.com/drive/folders/1Todaiop6BTS8-CipZFkF9vwBUECzHxKn) - University of Colorado only
 
 #### Grading
-Let's discuss this. Here is one idea:
-Make one tutorial, on a topic to be determined, prepared as a group. 20%
-Forecast project, prepared as a group. 80%
+Let's discuss this. Here is one idea:\
+Make one tutorial, on a topic to be determined, prepared as a group: 20%\
+Forecast project Github repository, developed as a group: 80%
 
 #### Accommodation for Disabilities
 If you qualify for accommodations because of a disability, please submit your accommodation letter from Disability Services to your faculty member in a timely manner so that your needs can be addressed.  Disability Services determines accommodations based on documented disabilities in the academic environment.  Information on requesting accommodations is located on the [Disability Services website](http://www.colorado.edu/disabilityservices/students). Contact Disability Services at 303-492-8671 or dsinfo@colorado.edu for further assistance.  If you have a temporary medical condition or injury, see [Temporary Medical Conditions](http://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) under the Students tab on the Disability Services website.

@@ -1,5 +1,6 @@
-### Ecological Forecasting: EBIO 6100-009
-### Spring 2020
+### Ecological Forecasting
+### EBIO 6100-009 Spring 2020
+### University of Colorado
 
 **Point of contact**: Dr Brett Melbourne\
 **Pronouns:** he, him, his\

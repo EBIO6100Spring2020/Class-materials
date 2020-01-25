@@ -11,13 +11,13 @@
 ## Tutorials
 
 ### Codecademy
-Start at Codecademy https://www.codecademy.com/pt-BR/learn/learn-git. Sign up if you haven't already and note some bugs in the tutorials (see git00_resources).
+Start at Codecademy https://www.codecademy.com/pt-BR/learn/learn-git. Sign up if you haven't already and note some bugs in the tutorials (see [git00_resources](https://github.com/EBIO6100Spring2020/Class-materials/blob/master/tutorials/git00_resources.md)).
   * Basic Git Workflow
   * How to Backtrack in Git
 
 Summary of the git commands covered (text from their tutorials):
 
-Basic Git workflow
+Basic Git workflow:\
 `git init` Creates a new Git repository.\
 `git status` Inspects the contents of the working directory and staging area.\
 `git add` Adds files from the working directory to the staging area.\

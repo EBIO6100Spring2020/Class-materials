@@ -5,8 +5,9 @@ Using Git and GitHub is transformative for teamwork in a coding project.
 ### Codecademy
 https://www.codecademy.com/pt-BR/learn/learn-git
   * Git teamwork
+Note possible bugs in the tutorial (see [git00_resources](https://github.com/EBIO6100Spring2020/Class-materials/blob/master/tutorials/git00_resources.md)).
 
-A summary of the git commands covered (text from their tutorials):\
+A summary of the git commands covered (text from their tutorial):\
 `git clone` Creates a local copy of a remote.\
 `git remote -v` Lists a Git project's remotes.\
 `git fetch` Fetches work from the remote into the local copy.\

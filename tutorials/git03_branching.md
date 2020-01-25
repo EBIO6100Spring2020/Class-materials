@@ -5,6 +5,7 @@ Using branches to experiment with new ideas is a powerful feature of Git that is
 ### Codecademy
 https://www.codecademy.com/pt-BR/learn/learn-git
   * Git branching
+Note some possible bugs in the tutorial (see [git00_resources](https://github.com/EBIO6100Spring2020/Class-materials/blob/master/tutorials/git00_resources.md)).
 
 A summary of the git commands covered (text from their tutorials):\
 `git branch` Lists all a Git project's branches.\

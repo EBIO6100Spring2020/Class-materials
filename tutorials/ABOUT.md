@@ -6,4 +6,7 @@ A collection of tutorials on various topics and skills.
 * data - Data organization and manipulation
 * viz - Visualization and graphics
 
-<!--- * fct - Forecasting --->
+<!--- * frcst - Forecasting --->
+<!--- * stats - Statistics fundamentals --->
+<!--- or should it be --->
+<!--- * datsci - Data science fundamentals --->

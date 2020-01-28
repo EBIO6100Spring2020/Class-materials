@@ -58,3 +58,8 @@ You can get another take on Git-GitHub from software carpentry at https://swcarp
 
 ## Hadley Wickham's RStudio guide
 Hadley Wickham's guide to Rstudio with Git and GitHub http://r-pkgs.had.co.nz/git.html is especially good for the Git tools built into RStudio. It is written from the perspective of R package development but approaches discussed are essentially the same for data science projects.
+
+## Earth Lab tutorials
+Here are two lessons from Earth Analytics' git/github tutorials that could be useful for some. They have user-friendly step-by-step instructions with visuals. They're for using Jupyter notebooks with Python, but the interaction with the command line is the same.
+* [Version control](https://www.earthdatascience.org/courses/earth-analytics-bootcamp/git-github-version-control/guided-activity-version-control/)
+* [Pull request](https://www.earthdatascience.org/courses/earth-analytics-bootcamp/git-github-version-control/guided-activity-pull-request/)

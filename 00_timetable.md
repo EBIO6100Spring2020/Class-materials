@@ -23,6 +23,7 @@ This is probably more a record than a plan. We'll mostly work on projects and in
 * **Prep:**
   * Talk with each other about projects and form groups
     * Review the project ideas that we discussed last week
+    * Express interest in projects by visiting the Issues tab in the [Data-sandbox repository](https://github.com/EBIO6100Spring2020/Data-sandbox)
   * Send me your GitHub username so I can add you to the class's GitHub organization
     * New to GitHub? [Signup](https://github.com/) with your colorado.edu email.
   * [Git tutorials](https://github.com/EBIO6100Spring2020/Class-materials/tree/master/tutorials). New users do setup + basics.
@@ -30,7 +31,7 @@ This is probably more a record than a plan. We'll mostly work on projects and in
     * Use the [Data-sandbox repository](https://github.com/EBIO6100Spring2020/Data-sandbox) (see instructions there)
     * [Tutorials](https://github.com/EBIO6100Spring2020/Class-materials/tree/master/tutorials) for data wrangling and visualization (ggplot, dplyr, tidy)
     * [NEON data](https://www.neonscience.org/)
-    * Niwot data - email Sarah Elmendorf
+    * [Niwot data](https://nwt.lternet.edu/data-catalog) - and see [Google Drive](https://drive.google.com/drive/folders/1Todaiop6BTS8-CipZFkF9vwBUECzHxKn) for Sarah's list of signature datasets.
 * Hackathon - data visualization
 
 #### Weeks 4+

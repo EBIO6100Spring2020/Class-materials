@@ -1,15 +1,16 @@
 # Git workflow for collaborating on forecasting projects
 
-We'll agree on a workflow that is appropriate. It will probably go something like this:
-* Assign tasks
-* Pull master from GitHub
-* Make a new branch for a task
-* Work on the task and commit changes
+Here is a suggested Git workflow that will allow us all to work together on the same repository while minimizing conflicts between file versions. Feel free to improve or suggest other strategies!
+
+* Use GitHub Issues to assign tasks
+* Pull master from GitHub (to update your local repo)
+* Make a new branch for a task in your local repo
+* Work on the task and commit changes to your local task branch
 * If no discussion needed
-  * Pull master from GitHub to update
-  * Merge task branch into master
+  * Pull master again from GitHub to update
+  * Merge the new task branch into master
   * Push master to GitHub
-* Else
+* Else if discussion needed
   * Push task branch to GitHub
   * Submit pull request in GitHub
   * Discuss as necessary

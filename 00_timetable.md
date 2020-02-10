@@ -43,6 +43,12 @@ This is probably more a record than a plan. We'll mostly work on projects and in
   * Use GitHub Issues to organize and coordinate
   * [Git tutorials](https://github.com/EBIO6100Spring2020/Class-materials/tree/master/tutorials). Review or learn to use branching & teamwork tools. See workflow for a suggested way for us all to work together on the same repository.
 
-#### Weeks 5+
+#### Week 5
+* **Reading:** [Harris et al. 2018. Forecasting biodiversity in breeding birds using best practices](https://peerj.com/articles/4278/)
+* **Prep:**
+  * Continue hacking to wrangle and visualize data
+  * Prepare a 5 minute report back to be presented to the class
+  
+#### Weeks 6+
 * Hacking with occasional forecasting specific modules
 * Work through a simple example or overall workflow

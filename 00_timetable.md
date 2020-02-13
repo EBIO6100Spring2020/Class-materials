@@ -15,8 +15,8 @@ This is probably more a record than a plan. We'll mostly work on projects and in
 * **Prep:**
   * Talk with each other about projects and form groups
 * Discussion of project ideas
-* [Slides week 2](https://github.com/EBIO6100Spring2020/Class-materials/blob/master/02_slides.pdf)
-* [List of project ideas](https://github.com/EBIO6100Spring2020/Class-materials/blob/master/02_project_ideas.md)
+* [Slides week 2](02_slides.pdf)
+* [List of project ideas](02_project_ideas.md)
 
 #### Week 3
 * **Reading:** Dietze 2018 Ecological Forecasting, Chapter 2
@@ -27,10 +27,10 @@ This is probably more a record than a plan. We'll mostly work on projects and in
     * Express interest in projects by visiting the Issues tab in the [Data-sandbox repository](https://github.com/EBIO6100Spring2020/Data-sandbox)
   * Send me your GitHub username so I can add you to the class's GitHub organization
     * New to GitHub? [Signup](https://github.com/) with your colorado.edu email.
-  * [Git tutorials](https://github.com/EBIO6100Spring2020/Class-materials/tree/master/tutorials). New users do setup + basics.
+  * [Git tutorials](tutorials). New users do setup + basics.
   * Get hacking to wrangle and visualize data
     * Use the [Data-sandbox repository](https://github.com/EBIO6100Spring2020/Data-sandbox) (see instructions there)
-    * [Tutorials](https://github.com/EBIO6100Spring2020/Class-materials/tree/master/tutorials) for data wrangling and visualization (ggplot, dplyr, tidy)
+    * [Tutorials](tutorials) for data wrangling and visualization (ggplot, dplyr, tidy)
     * [NEON data](https://www.neonscience.org/)
     * [Niwot data](https://nwt.lternet.edu/data-catalog) - and see [Google Drive](https://drive.google.com/drive/folders/1Todaiop6BTS8-CipZFkF9vwBUECzHxKn) for Sarah's list of signature datasets.
 * [Slides week 3](03_slides.pdf)
@@ -42,7 +42,7 @@ This is probably more a record than a plan. We'll mostly work on projects and in
 * **Prep:**
   * Continue hacking to wrangle and visualize data
   * Use GitHub Issues to organize and coordinate
-  * [Git tutorials](https://github.com/EBIO6100Spring2020/Class-materials/tree/master/tutorials). Review or learn to use branching & teamwork tools. See workflow for a suggested way for us all to work together on the same repository.
+  * [Git tutorials](tutorials). Review or learn to use branching & teamwork tools. See workflow for a suggested way for us all to work together on the same repository.
 * [Slides week 4](04_slides.pdf)
 
 #### Week 5

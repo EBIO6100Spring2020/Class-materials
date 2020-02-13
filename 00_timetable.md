@@ -52,6 +52,7 @@ This is probably more a record than a plan. We'll mostly work on projects and in
   * Continue hacking to wrangle and visualize data
   * Prepare a 5 minute report back to be presented to the class
 * Report back on data, models, and plans: class-wide discussion
+* [Slides week 5](05_slides.pdf)
 * Hackathon - begin simple models
 
 #### Weeks 6+

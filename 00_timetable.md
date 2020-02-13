@@ -7,7 +7,7 @@ This is probably more a record than a plan. We'll mostly work on projects and in
   * none
 * Introductions to each other
 * What is forecasting? Why and how might we do it?
-* [Slides week 1](https://github.com/EBIO6100Spring2020/Class-materials/blob/master/01_slides.pdf)
+* [Slides week 1](01_slides.pdf)
 * Discussion of project ideas
 
 #### Week 2
@@ -33,6 +33,7 @@ This is probably more a record than a plan. We'll mostly work on projects and in
     * [Tutorials](https://github.com/EBIO6100Spring2020/Class-materials/tree/master/tutorials) for data wrangling and visualization (ggplot, dplyr, tidy)
     * [NEON data](https://www.neonscience.org/)
     * [Niwot data](https://nwt.lternet.edu/data-catalog) - and see [Google Drive](https://drive.google.com/drive/folders/1Todaiop6BTS8-CipZFkF9vwBUECzHxKn) for Sarah's list of signature datasets.
+* [Slides week 3](03_slides.pdf)
 * Hackathon - data visualization
 
 #### Week 4
@@ -42,13 +43,14 @@ This is probably more a record than a plan. We'll mostly work on projects and in
   * Continue hacking to wrangle and visualize data
   * Use GitHub Issues to organize and coordinate
   * [Git tutorials](https://github.com/EBIO6100Spring2020/Class-materials/tree/master/tutorials). Review or learn to use branching & teamwork tools. See workflow for a suggested way for us all to work together on the same repository.
+* [Slides week 4](04_slides.pdf)
 
 #### Week 5
 * **Reading:** [Harris et al. 2018. Forecasting biodiversity in breeding birds using best practices](https://peerj.com/articles/4278/)
 * **Prep:**
   * Continue hacking to wrangle and visualize data
   * Prepare a 5 minute report back to be presented to the class
-  
+
 #### Weeks 6+
 * Hacking with occasional forecasting specific modules
 * Work through a simple example or overall workflow

@@ -24,7 +24,7 @@ This is probably more a record than a plan. We'll mostly work on projects and in
 * **Prep:**
   * Talk with each other about projects and form groups
     * Review the project ideas that we discussed last week
-    * Express interest in projects by visiting the Issues tab in the [Data-sandbox repository](https://github.com/EBIO6100Spring2020/Data-sandbox)
+    * Express interest in projects by visiting the `Issues` tab in the [Data-sandbox repository](https://github.com/EBIO6100Spring2020/Data-sandbox)
   * Send me your GitHub username so I can add you to the class's GitHub organization
     * New to GitHub? [Signup](https://github.com/) with your colorado.edu email.
   * [Git tutorials](tutorials). New users do setup + basics.
@@ -41,15 +41,18 @@ This is probably more a record than a plan. We'll mostly work on projects and in
   * This example provides a good overview of issues and methods
 * **Prep:**
   * Continue hacking to wrangle and visualize data
-  * Use GitHub Issues to organize and coordinate
-  * [Git tutorials](tutorials). Review or learn to use branching & teamwork tools. See workflow for a suggested way for us all to work together on the same repository.
+  * Use GitHub `Issues` to organize and coordinate
+  * [Git tutorials](tutorials). Review or learn to use branching & teamwork tools. See [git05_workflow tutorial](tutorials/git05_workflow.md) for a suggested way for us all to work together on the same repository.
 * [Slides week 4](04_slides.pdf)
+* Hackathon - data visualization
 
 #### Week 5
 * **Reading:** [Harris et al. 2018. Forecasting biodiversity in breeding birds using best practices](https://peerj.com/articles/4278/)
 * **Prep:**
   * Continue hacking to wrangle and visualize data
   * Prepare a 5 minute report back to be presented to the class
+* Report back on data, models, and plans: class-wide discussion
+* Hackathon - begin simple models
 
 #### Weeks 6+
 * Hacking with occasional forecasting specific modules

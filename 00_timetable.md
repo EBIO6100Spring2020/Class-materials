@@ -38,7 +38,7 @@ This is probably more a record than a plan. We'll mostly work on projects and in
 
 #### Week 4
 * **Reading:** [Harris et al. 2018. Forecasting biodiversity in breeding birds using best practices](https://peerj.com/articles/4278/)
-  * This example provides a good overview of issues and methods
+  * This example provides a good overview of issues and methods and provides a walk through of an overall worflow
 * **Prep:**
   * Continue hacking to wrangle and visualize data
   * Use GitHub `Issues` to organize and coordinate
@@ -48,13 +48,27 @@ This is probably more a record than a plan. We'll mostly work on projects and in
 
 #### Week 5
 * **Reading:** [Harris et al. 2018. Forecasting biodiversity in breeding birds using best practices](https://peerj.com/articles/4278/)
+  * [Summary of the reading](05_Harris_etal_2018_best_practices.md), including best practices
 * **Prep:**
   * Continue hacking to wrangle and visualize data
   * Prepare a 5 minute report back to be presented to the class
-* Report back on data, models, and plans: class-wide discussion
 * [Slides week 5](05_slides.pdf)
-* Hackathon - begin simple models
+* Report back on data, models, and plans: class-wide discussion
+* Report slides are in the [class Google drive](https://drive.google.com/drive/folders/1xX27yW_LSYoDMCYtr6SOfRI4SizLzyIp)
+* The four awesome projects:
+  * NEON-Niwot carabid project
+  * NEON tick project
+  * Niwot codominant plants project
+  * Niwot plant SDMs project
 
-#### Weeks 6+
-* Hacking with occasional forecasting specific modules
-* Work through a simple example or overall workflow
+#### Week 6
+* **Reading:** None
+* **Prep:**
+  * Understand how to make a forecast using a simple model such as the temporal average or random walk (aka "naive")
+  * Use the reading from the previous two weeks (and consult the code)
+<!-- * [Slides week 6](06_slides.pdf) -->
+* Hackathon - simple models and forecasting pipeline
+
+#### Weeks 7+
+* Continue hacking
+* Tutorial/theory modules on various forecasting/model topics

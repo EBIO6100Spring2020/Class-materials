@@ -67,8 +67,20 @@ This is probably more a record than a plan. We'll mostly work on projects and in
   * Understand how to make a forecast using a simple model such as the temporal average or random walk (aka "naive")
   * Use the reading from the previous two weeks (and consult the code)
 <!-- * [Slides week 6](06_slides.pdf) -->
+* [Slides week 6](06_slides.pdf)
 * Hackathon - simple models and forecasting pipeline
 
-#### Weeks 7+
+#### Week 7
+* **Reading:**
+  * Refresher or introduction to multilevel linear models
+  * [Gelman & Hill Ch. 12 Multilevel linear models: the basics](https://drive.google.com/open?id=1KCTymYZ1HLE57iilvjUXKLc-safRL6rd)
+  * Tutorials for G&H Chapter 12: mllm01, mllm02, mllm03
+* **Prep:**
+* Continue working on a simple model of the average, including:
+  * sketching the data structure (e.g. hierarchical)
+  * estimating scales of variance
+* Continue working on data and more complex models
+
+#### Weeks 8+
 * Continue hacking
 * Tutorial/theory modules on various forecasting/model topics

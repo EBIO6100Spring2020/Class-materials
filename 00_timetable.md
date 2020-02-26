@@ -74,7 +74,7 @@ This is probably more a record than a plan. We'll mostly work on projects and in
 * **Reading:**
   * Refresher or introduction to multilevel linear models
   * [Gelman & Hill Ch. 12 Multilevel linear models: the basics](https://drive.google.com/open?id=1KCTymYZ1HLE57iilvjUXKLc-safRL6rd)
-  * Tutorials for G&H Chapter 12: mllm01, mllm02, mllm03
+  * Tutorial for G&H Chapter 12: [mlvl01](tutorials/mlvl01_multilevel_models_1.md) - simple multilevel model for the average
 * **Prep:**
 * Continue working on a simple model of the average, including:
   * sketching the data structure (e.g. hierarchical)

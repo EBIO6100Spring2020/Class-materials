@@ -1,0 +1,7 @@
+# Original data supplied by Andrew Gelman
+# Data are at http://www.stat.columbia.edu/~gelman/arm/examples/radon
+# Data file at that location is cty.dat
+
+# Data for Uranium are in parts per million (ppm)
+
+

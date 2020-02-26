@@ -1,0 +1,27 @@
+# Radon levels in homes, Minnesota USA.
+# Units unknown.
+
+# Original data supplied by Andrew Gelman
+# Data are at http://www.stat.columbia.edu/~gelman/arm/examples/radon
+# Data file at that location is srrs2.dat
+
+# The Minnesota data were extracted and cleaned with the following R code:
+
+# Extracts and saves data for Minnesota, used in Ch 12
+# Removes unused data columns
+# Trims white space from county names
+# Adds real names to floors
+library(stringr)
+srrs2 <- read.table ("srrs2.dat", header=T, sep=",",as.is=TRUE)
+radon_mn <- subset(srrs2,state=="MN",select=c(floor,activity,county))
+radon_mn$county <- str_trim(radon_mn$county,side="right")
+radon_mn$floor <- ifelse(radon_mn$floor==0,"basement","first")
+rownames(radon_mn) <- NULL
+colnames(radon_mn)[2] <- "radon"
+head(radon_mn)
+write.csv(radon_mn,file="radon_MN.csv",row.names=FALSE)
+
+Brett Melbourne
+14 Oct 2018
+
+

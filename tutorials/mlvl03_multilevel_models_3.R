@@ -2,7 +2,9 @@
 #' title: Multilevel model of radon levels III
 #' author: Brett Melbourne
 #' date: 1 Nov 2018 (updated 27 Feb 2020)
-#' output: github_document
+#' output:
+#'     github_document:
+#'         pandoc_args: --webtex
 #' ---
 
 #' Chapter 12 of Gelman & Hill\

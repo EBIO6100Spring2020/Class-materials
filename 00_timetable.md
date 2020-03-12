@@ -119,6 +119,7 @@ This is probably more a record than a plan. We'll mostly work on projects and in
 * **Resources**
   * Tutorials
     * [mlvl04](tutorials/mlvl04_multilevel_equations.pdf) - equations for multilevel models
+    * [mlvl05](tutorials/mlvl05_simulating_models.md) - simulating multilevel data and models
     * prediction intervals - coming soon
     * k-fold cross validation - coming soon
 <!--    * [fcst01](tutorials/fcst01_prediction_intervals) - prediction intervals

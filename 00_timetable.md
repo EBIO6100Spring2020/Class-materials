@@ -114,21 +114,25 @@ This is probably more a record than a plan. We'll mostly work on projects and in
     * report includes sketch of data structure
     * analysis includes discussion of model diagnostics
   * Move on to more complex models if ready
-<!--
+
 #### Week 9
 * **Resources**
   * Tutorials
-    * [mlvl04](tutorials/mlvl04_model_equations) - equations for multilevel models
-    * [fcst01](tutorials/fcst01_prediction_intervals) - prediction intervals
+    * [mlvl04](tutorials/mlvl04_multilevel_equations.pdf) - equations for multilevel models
+    * [mlvl05](tutorials/mlvl05_simulating_models.md) - simulating multilevel data and models
+    * prediction intervals - coming soon
+    * k-fold cross validation - coming soon
+<!--    * [fcst01](tutorials/fcst01_prediction_intervals) - prediction intervals
     * [fcst02](tutorials/fcst02_k-fold_CV) - k-fold cross validation
+-->
 * **Prep and class**
   * Add to simple model report (if you hadn't done this already)
     * model equations
     * forecast with prediction intervals
     * cross validation
   * Move on to more complex models if ready
--->
 
-#### Weeks 9+
+
+#### Weeks 10+
 * Continue hacking
 * Tutorial/theory modules on various forecasting/model topics

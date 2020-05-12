@@ -132,7 +132,18 @@ This is probably more a record than a plan. We'll mostly work on projects and in
     * cross validation
   * Move on to more complex models if ready
 
+#### Weeks 10-14
+* **Resources**
+  * GAMMs
+    * [Noam Ross course](https://noamross.github.io/gams-in-r-course/)
+    * [mgcv tutorial paper](https://peerj.com/articles/6876/)
+    * [brms using bases constructed with mgcv](https://www.fromthebottomoftheheap.net/2018/04/21/fitting-gams-with-brms/)
+    * [rstanarm](http://mc-stan.org/rstanarm/reference/stan_gamm4.html)
+  * Forecasting
+    * [Dietz et al Fundamentals of Ecological Forecasting video series](https://www.youtube.com/playlist?list=PLLWiknuNGd50Lc3rft4kFPc_oxAhiQ-6s)
+    * https://ecoforecast.org/
+* **Prep and class**
+  * Continue working on projects
 
-#### Weeks 10+
-* Continue hacking
-* Tutorial/theory modules on various forecasting/model topics
+#### Weeks 15 and finals week
+* Project presentations (share your modeling process and code)
